@@ -1,6 +1,7 @@
 {
-  "version": "7.0.6",
+  "version": "7.0.7",
   "date": "2026-11-24",
-  "notes": "تحديث بعض التقنيات وتحسين النظام",
-  "https://github.com/mohamednasserohi700-commits/Silsal-7-Break/releases/latest/download/Silsal-7-Break.zip"
+  "notes": "تجاوز مشاكل البروكسي في التحديث",
+  "download": "https://github.com/mohamednasserohi700-commits/Silsal-7-Break/releases/latest/download/Silsal-7-Break.zip",
+  "sha256": "c81b4b8887c0028f0e157f3c68ec156368a4c11ad8da289d772a7b953ee3d716"
 }
